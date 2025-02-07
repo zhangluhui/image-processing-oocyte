@@ -1,4 +1,4 @@
-<h1><b>Image processing oocyte</b></h1>
+<h1><b>Image Processing Oocyte</b></h1>
 Python script for processing oocyte images from Leica image files.
 
 <h4><b>This Python script is designed to:</b></h4>
